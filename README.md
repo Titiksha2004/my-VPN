@@ -1,4 +1,4 @@
-# Build Your Own ZeroTier – Layer 2 VPN using Virtual Switch
+
 
 ## Project Overview
 
